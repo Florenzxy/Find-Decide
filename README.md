@@ -33,22 +33,22 @@ Find & Decide是一款以本地数据管理为基础、以大模型分析为辅�
 
 - 岗位工作台
 
---ID分析
+ID分析
 <img width="1983" height="1137" alt="image" src="https://github.com/user-attachments/assets/1013670c-77b0-4582-9003-8316f91b18e8" />
 <img width="1272" height="1014" alt="image" src="https://github.com/user-attachments/assets/d373a215-8c9d-4b5d-b786-6fa15cffa933" />
 <img width="1227" height="867" alt="image" src="https://github.com/user-attachments/assets/d9586657-2954-4b5a-936f-aebb85d9917a" />
 
---简历分析
+简历分析
 <img width="2007" height="1131" alt="image" src="https://github.com/user-attachments/assets/8f211acf-f93b-49b9-9e16-cb4807c9f58f" />
 <img width="1305" height="855" alt="image" src="https://github.com/user-attachments/assets/2c5d9e63-af84-43dc-b46e-223a16382155" />
 <img width="1290" height="1112" alt="image" src="https://github.com/user-attachments/assets/c4495253-faa7-47c5-ae78-bbd1bda2e49f" />
 
---知识准备
+知识准备
 <img width="2049" height="1131" alt="image" src="https://github.com/user-attachments/assets/efac15dc-fc8a-4cdc-840a-b2110ea84e9b" />
 <img width="1358" height="849" alt="image" src="https://github.com/user-attachments/assets/b354771d-92ae-43b3-a090-4345afb431d4" />
 <img width="1278" height="972" alt="image" src="https://github.com/user-attachments/assets/b4f71462-13fe-4ff4-b3af-9fc4e265dea8" />
 
---面试复盘
+面试复盘
 <img width="1311" height="1140" alt="image" src="https://github.com/user-attachments/assets/603832e5-a927-4250-acc0-a22ffbb83356" />
 <img width="1218" height="1116" alt="image" src="https://github.com/user-attachments/assets/21ab5f81-ec08-442c-8d27-cb844d40da4e" />
 
