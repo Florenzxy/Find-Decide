@@ -1,0 +1,19 @@
+import { defineConfig, devices } from "@playwright/test";
+
+export default defineConfig({
+  testDir: "./tests/e2e",
+  use: {
+    baseURL: "http://127.0.0.1:5173",
+    trace: "on-first-retry"
+  },
+  webServer: {
+    command: "\"C:\\Users\\Lenovo\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe\" node_modules/vite/bin/vite.js --host 127.0.0.1",
+    url: "http://127.0.0.1:5173",
+    reuseExistingServer: true,
+    timeout: 120000
+  },
+  projects: [
+    { name: "chromium", use: { ...devices["Desktop Chrome"] } },
+    { name: "mobile", use: { ...devices["Pixel 5"] } }
+  ]
+});
