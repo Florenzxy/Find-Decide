@@ -20,6 +20,27 @@ Find & Decide是一款以本地数据管理为基础、以大模型分析为辅�
 - 阿里云百炼 Qwen 模型
 
 ## 📸 功能预览
+- 待办工作台
+<img width="2022" height="1136" alt="image" src="https://github.com/user-attachments/assets/fdc9d230-7d4a-41f0-8ab5-dd0a8dc6e56a" />
+建议先前往个人简历库上传简历
+<img width="1941" height="1140" alt="image" src="https://github.com/user-attachments/assets/52e1f4bd-7794-4720-ab57-241a2e9b26a9" />
+- 求职工作台
+<img width="2292" height="1113" alt="image" src="https://github.com/user-attachments/assets/b155aaaf-9c05-495d-80cb-702721694dd6" />
+- 岗位工作台
+--ID分析
+<img width="1983" height="1137" alt="image" src="https://github.com/user-attachments/assets/1013670c-77b0-4582-9003-8316f91b18e8" />
+--简历分析
+<img width="2007" height="1131" alt="image" src="https://github.com/user-attachments/assets/8f211acf-f93b-49b9-9e16-cb4807c9f58f" />
+--知识准备
+<img width="2049" height="1131" alt="image" src="https://github.com/user-attachments/assets/efac15dc-fc8a-4cdc-840a-b2110ea84e9b" />
+--面试复盘
+<img width="1722" height="1131" alt="image" src="https://github.com/user-attachments/assets/107d2889-f0ad-4d71-90df-346b3835b8f6" />
+-offer决策助手
+<img width="1332" height="1145" alt="image" src="https://github.com/user-attachments/assets/54f497bc-cc3e-4c39-a4fe-b365af130b34" />
+-数据管理
+<img width="1313" height="1128" alt="image" src="https://github.com/user-attachments/assets/d59477ba-3a02-4705-98b5-deadaa1fabb2" />
+
+
 
 
 ## 🚀 快速开始
